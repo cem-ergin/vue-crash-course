@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "March 3rd at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 21609,
+      "text": "Do something",
+      "day": "tomorrow at 7pm",
+      "reminder": false
+    },
+    {
+      "id": 27779,
+      "text": "Watch some stream",
+      "day": "Today after doing vue crash course",
+      "reminder": true
+    }
+  ]
+}
